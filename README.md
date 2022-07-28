@@ -1,28 +1,34 @@
+<p align="center">
+<img 
+     src='./technology world.jpg' 
+     alt='code'
+     width='100%'
+     style='margin: 0 auto'
+/>
+</p>
+
 ## Hola, I'm Hasan AL-Baba! 👋
 
+I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 2 years experience in Web Development.Experience includes coding, troubleshooting, and testing for my own personal projects while at Lebanese University. Relevant skills include PHP, Data Structures, Machine Learning, and Debugging.
 
-<a href="https://twitter.com/Hasan_AlBaba">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+## 💻 My Technical Stack<br>
+
+Languages: PHP, SQL, MYSQL, JavaScript (AJAX, JSON), HTML, CSS, C++, C#, Python <br>
+Frameworks & Libraries: jQuery, Bootstrap, Laravel <br>
+Tools:  MySQL, Sqlite, GitHub, VSCode, Photoshop
+CMS: WordPress
+
+## ⛓ My Links
 <a href="https://linkedin.com/in/hasan-baba-809253199">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/hasan-baba">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
-<br/>
-<br/>
+## ✉️ Get in contact with me 
+* Email: hasanabedrahmanbaba@gmail.com
+
+<img align="left" alt="Samah Github Stats" src="https://github-readme-stats.vercel.app/api?username=samah-basheer&count_private=true&hide_border=true" />
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
 
