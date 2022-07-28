@@ -22,6 +22,7 @@ CMS: WordPress
 <a href="https://linkedin.com/in/hasan-baba-809253199">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</br>
 
 ## ✉️ Get in contact with me 
 * Email: hasanabedrahmanbaba@gmail.com
