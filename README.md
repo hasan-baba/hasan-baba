@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-     src='./technology world.jpg' 
+     src='./technology.jpg' 
      alt='code'
      width='100%'
      style='margin: 0 auto'
@@ -25,9 +25,6 @@ CMS: WordPress
 
 ## ✉️ Get in contact with me 
 * Email: hasanabedrahmanbaba@gmail.com
-
-<img align="left" alt="Samah Github Stats" src="https://github-readme-stats.vercel.app/api?username=samah-basheer&count_private=true&hide_border=true" />
-
 
 
 
