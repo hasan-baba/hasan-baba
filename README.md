@@ -9,7 +9,7 @@
 
 ## Hola, I'm Hasan AL-Baba! 👋
 
-I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 2 years experience in Web Development.Experience includes coding, troubleshooting, and testing for my own personal projects while at Lebanese University. Relevant skills include PHP, Data Structures, Machine Learning, and Debugging.
+I am Full Stack Web Developer in Lebanon with a Bachelor’s Degree and 2 years experience in Web Development.Experience includes coding, troubleshooting, and testing for my own personal projects while at Lebanese University. Relevant skills include PHP, Data Structures and Debugging.
 
 ## 💻 My Technical Stack<br>
 
